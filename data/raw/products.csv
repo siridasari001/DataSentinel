@@ -1,0 +1,501 @@
+product_id,product_name,category,price,supplier
+PROD0001,Product 1,Beauty,204.27,Summit Suppliers
+PROD0002,Product 2,Beauty,85.3,NorthStar Supply
+PROD0003,Product 3,Home,432.63,NorthStar Supply
+PROD0004,Product 4,Electronics,107.01,Metro Distribution
+PROD0005,Product 5,Electronics,461.18,Metro Distribution
+PROD0006,Product 6,Clothing,226.48,BlueRiver Wholesale
+PROD0007,Product 7,Beauty,373.97,NorthStar Supply
+PROD0008,Product 8,Beauty,278.03,Summit Suppliers
+PROD0009,Product 9,Sports,135.75,BlueRiver Wholesale
+PROD0010,Product 10,Books,338.83,PrimeGoods
+PROD0011,Product 11,Home,479.38,NorthStar Supply
+PROD0012,Product 12,Home,387.12,Metro Distribution
+PROD0013,Product 13,Clothing,305.97,NorthStar Supply
+PROD0014,Product 14,Electronics,495.41,NorthStar Supply
+PROD0015,Product 15,Beauty,140.01,NorthStar Supply
+PROD0016,Product 16,Books,40.55,NorthStar Supply
+PROD0017,Product 17,Clothing,25.74,PrimeGoods
+PROD0018,Product 18,Home,358.24,Metro Distribution
+PROD0019,Product 19,Home,416.81,NorthStar Supply
+PROD0020,Product 20,Home,321.2,PrimeGoods
+PROD0021,Product 21,Beauty,453.46,BlueRiver Wholesale
+PROD0022,Product 22,Beauty,352.01,NorthStar Supply
+PROD0023,Product 23,Beauty,191.77,PrimeGoods
+PROD0024,Product 24,Sports,98.82,Summit Suppliers
+PROD0025,Product 25,Electronics,463.08,BlueRiver Wholesale
+PROD0026,Product 26,Home,60.76,Metro Distribution
+PROD0027,Product 27,Home,276.06,NorthStar Supply
+PROD0028,Product 28,Sports,163.86,NorthStar Supply
+PROD0029,Product 29,Home,142.99,PrimeGoods
+PROD0030,Product 30,Home,326.46,Metro Distribution
+PROD0031,Product 31,Beauty,123.31,Summit Suppliers
+PROD0032,Product 32,Beauty,459.02,BlueRiver Wholesale
+PROD0033,Product 33,Electronics,208.96,Metro Distribution
+PROD0034,Product 34,Home,341.91,NorthStar Supply
+PROD0035,Product 35,Clothing,366.6,PrimeGoods
+PROD0036,Product 36,Home,344.64,Summit Suppliers
+PROD0037,Product 37,Home,452.67,PrimeGoods
+PROD0038,Product 38,Electronics,123.25,BlueRiver Wholesale
+PROD0039,Product 39,Clothing,52.17,Metro Distribution
+PROD0040,Product 40,Home,37.18,PrimeGoods
+PROD0041,Product 41,Books,440.14,PrimeGoods
+PROD0042,Product 42,Books,486.91,NorthStar Supply
+PROD0043,Product 43,Clothing,158.24,PrimeGoods
+PROD0044,Product 44,Books,349.82,Summit Suppliers
+PROD0045,Product 45,Beauty,14.37,Metro Distribution
+PROD0046,Product 46,Beauty,102.43,BlueRiver Wholesale
+PROD0047,Product 47,Clothing,347.74,PrimeGoods
+PROD0048,Product 48,Home,42.28,Summit Suppliers
+PROD0049,Product 49,Clothing,239.57,BlueRiver Wholesale
+PROD0050,Product 50,Books,334.67,Summit Suppliers
+PROD0051,Product 51,Clothing,385.32,PrimeGoods
+PROD0052,Product 52,Books,232.37,PrimeGoods
+PROD0053,Product 53,Beauty,318.84,Metro Distribution
+PROD0054,Product 54,Clothing,274.39,NorthStar Supply
+PROD0055,Product 55,Sports,35.63,Summit Suppliers
+PROD0056,Product 56,Books,373.97,NorthStar Supply
+PROD0057,Product 57,Sports,94.46,NorthStar Supply
+PROD0058,Product 58,Beauty,25.58,BlueRiver Wholesale
+PROD0059,Product 59,Home,231.07,BlueRiver Wholesale
+PROD0060,Product 60,Books,434.16,Summit Suppliers
+PROD0061,Product 61,Home,83.91,NorthStar Supply
+PROD0062,Product 62,Beauty,16.3,Metro Distribution
+PROD0063,Product 63,Home,63.89,NorthStar Supply
+PROD0064,Product 64,Books,188.19,BlueRiver Wholesale
+PROD0065,Product 65,Electronics,294.28,NorthStar Supply
+PROD0066,Product 66,Books,104.58,PrimeGoods
+PROD0067,Product 67,Books,402.96,PrimeGoods
+PROD0068,Product 68,Sports,379.12,Metro Distribution
+PROD0069,Product 69,Electronics,350.97,Summit Suppliers
+PROD0070,Product 70,Electronics,248.86,NorthStar Supply
+PROD0071,Product 71,Electronics,188.96,PrimeGoods
+PROD0072,Product 72,Books,194.04,Summit Suppliers
+PROD0073,Product 73,Beauty,256.5,PrimeGoods
+PROD0074,Product 74,Electronics,47.88,Summit Suppliers
+PROD0075,Product 75,Clothing,344.33,Summit Suppliers
+PROD0076,Product 76,Home,182.24,PrimeGoods
+PROD0077,Product 77,Beauty,120.13,BlueRiver Wholesale
+PROD0078,Product 78,Clothing,146.38,Summit Suppliers
+PROD0079,Product 79,Books,98.34,NorthStar Supply
+PROD0080,Product 80,Books,451.77,PrimeGoods
+PROD0081,Product 81,Clothing,92.83,BlueRiver Wholesale
+PROD0082,Product 82,Sports,442.63,PrimeGoods
+PROD0083,Product 83,Sports,290.4,Metro Distribution
+PROD0084,Product 84,Clothing,435.05,NorthStar Supply
+PROD0085,Product 85,Sports,242.29,Metro Distribution
+PROD0086,Product 86,Home,464.54,Summit Suppliers
+PROD0087,Product 87,Home,113.63,Summit Suppliers
+PROD0088,Product 88,Books,281.8,Metro Distribution
+PROD0089,Product 89,Sports,71.66,Metro Distribution
+PROD0090,Product 90,Electronics,229.14,Summit Suppliers
+PROD0091,Product 91,Clothing,289.25,BlueRiver Wholesale
+PROD0092,Product 92,Home,306.78,NorthStar Supply
+PROD0093,Product 93,Sports,189.11,PrimeGoods
+PROD0094,Product 94,Sports,47.4,Metro Distribution
+PROD0095,Product 95,Home,331.11,NorthStar Supply
+PROD0096,Product 96,Home,249.33,PrimeGoods
+PROD0097,Product 97,Electronics,77.07,PrimeGoods
+PROD0098,Product 98,Sports,468.58,Metro Distribution
+PROD0099,Product 99,Sports,478.28,BlueRiver Wholesale
+PROD0100,Product 100,Beauty,429.74,BlueRiver Wholesale
+PROD0101,Product 101,Books,423.5,NorthStar Supply
+PROD0102,Product 102,Electronics,58.35,NorthStar Supply
+PROD0103,Product 103,Home,496.78,Summit Suppliers
+PROD0104,Product 104,Home,206.19,BlueRiver Wholesale
+PROD0105,Product 105,Clothing,89.93,NorthStar Supply
+PROD0106,Product 106,Books,407.93,Summit Suppliers
+PROD0107,Product 107,Home,120.61,PrimeGoods
+PROD0108,Product 108,Sports,267.83,NorthStar Supply
+PROD0109,Product 109,Home,72.73,Summit Suppliers
+PROD0110,Product 110,Sports,242.58,BlueRiver Wholesale
+PROD0111,Product 111,Sports,283.49,PrimeGoods
+PROD0112,Product 112,Electronics,228.5,NorthStar Supply
+PROD0113,Product 113,Home,44.05,BlueRiver Wholesale
+PROD0114,Product 114,Electronics,247.62,PrimeGoods
+PROD0115,Product 115,Books,239.78,Metro Distribution
+PROD0116,Product 116,Sports,138.19,BlueRiver Wholesale
+PROD0117,Product 117,Books,461.58,Metro Distribution
+PROD0118,Product 118,Home,214.72,NorthStar Supply
+PROD0119,Product 119,Books,433.42,Summit Suppliers
+PROD0120,Product 120,Books,63.74,NorthStar Supply
+PROD0121,Product 121,Home,166.25,BlueRiver Wholesale
+PROD0122,Product 122,Electronics,96.4,Metro Distribution
+PROD0123,Product 123,Electronics,210.12,Metro Distribution
+PROD0124,Product 124,Sports,64.7,PrimeGoods
+PROD0125,Product 125,Sports,226.11,NorthStar Supply
+PROD0126,Product 126,Home,183.4,NorthStar Supply
+PROD0127,Product 127,Home,119.42,BlueRiver Wholesale
+PROD0128,Product 128,Beauty,324.67,Metro Distribution
+PROD0129,Product 129,Beauty,475.95,BlueRiver Wholesale
+PROD0130,Product 130,Clothing,111.49,BlueRiver Wholesale
+PROD0131,Product 131,Sports,358.78,Metro Distribution
+PROD0132,Product 132,Books,373.77,BlueRiver Wholesale
+PROD0133,Product 133,Clothing,254.08,Metro Distribution
+PROD0134,Product 134,Clothing,449.86,BlueRiver Wholesale
+PROD0135,Product 135,Electronics,483.53,Summit Suppliers
+PROD0136,Product 136,Books,187.5,BlueRiver Wholesale
+PROD0137,Product 137,Electronics,329.01,BlueRiver Wholesale
+PROD0138,Product 138,Beauty,334.48,Summit Suppliers
+PROD0139,Product 139,Clothing,207.78,NorthStar Supply
+PROD0140,Product 140,Beauty,165.23,Metro Distribution
+PROD0141,Product 141,Books,467.53,PrimeGoods
+PROD0142,Product 142,Books,397.09,Summit Suppliers
+PROD0143,Product 143,Sports,66.09,NorthStar Supply
+PROD0144,Product 144,Home,68.74,BlueRiver Wholesale
+PROD0145,Product 145,Electronics,462.05,NorthStar Supply
+PROD0146,Product 146,Sports,49.89,Summit Suppliers
+PROD0147,Product 147,Sports,347.33,BlueRiver Wholesale
+PROD0148,Product 148,Electronics,121.11,NorthStar Supply
+PROD0149,Product 149,Electronics,27.24,PrimeGoods
+PROD0150,Product 150,Books,39.22,Metro Distribution
+PROD0151,Product 151,Books,193.03,Metro Distribution
+PROD0152,Product 152,Clothing,48.02,Summit Suppliers
+PROD0153,Product 153,Beauty,302.35,BlueRiver Wholesale
+PROD0154,Product 154,Books,327.15,BlueRiver Wholesale
+PROD0155,Product 155,Sports,193.0,Metro Distribution
+PROD0156,Product 156,Clothing,374.01,NorthStar Supply
+PROD0157,Product 157,Clothing,250.12,BlueRiver Wholesale
+PROD0158,Product 158,Sports,220.81,PrimeGoods
+PROD0159,Product 159,Books,209.42,PrimeGoods
+PROD0160,Product 160,Sports,221.24,BlueRiver Wholesale
+PROD0161,Product 161,Home,484.26,BlueRiver Wholesale
+PROD0162,Product 162,Books,343.89,Metro Distribution
+PROD0163,Product 163,Beauty,164.45,Summit Suppliers
+PROD0164,Product 164,Sports,369.59,Metro Distribution
+PROD0165,Product 165,Books,171.83,Summit Suppliers
+PROD0166,Product 166,Electronics,71.6,PrimeGoods
+PROD0167,Product 167,Home,242.93,Summit Suppliers
+PROD0168,Product 168,Beauty,378.0,Metro Distribution
+PROD0169,Product 169,Books,195.05,BlueRiver Wholesale
+PROD0170,Product 170,Electronics,435.9,Summit Suppliers
+PROD0171,Product 171,Books,199.61,Metro Distribution
+PROD0172,Product 172,Electronics,181.42,PrimeGoods
+PROD0173,Product 173,Beauty,499.14,Summit Suppliers
+PROD0174,Product 174,Home,246.41,PrimeGoods
+PROD0175,Product 175,Electronics,404.56,PrimeGoods
+PROD0176,Product 176,Clothing,404.44,NorthStar Supply
+PROD0177,Product 177,Beauty,463.92,Summit Suppliers
+PROD0178,Product 178,Beauty,51.6,Metro Distribution
+PROD0179,Product 179,Sports,142.9,Summit Suppliers
+PROD0180,Product 180,Home,386.2,Summit Suppliers
+PROD0181,Product 181,Clothing,285.67,PrimeGoods
+PROD0182,Product 182,Clothing,284.21,PrimeGoods
+PROD0183,Product 183,Sports,91.45,PrimeGoods
+PROD0184,Product 184,Electronics,147.76,PrimeGoods
+PROD0185,Product 185,Electronics,265.45,Metro Distribution
+PROD0186,Product 186,Clothing,145.82,BlueRiver Wholesale
+PROD0187,Product 187,Home,113.04,NorthStar Supply
+PROD0188,Product 188,Electronics,53.0,PrimeGoods
+PROD0189,Product 189,Beauty,86.31,PrimeGoods
+PROD0190,Product 190,Books,386.75,NorthStar Supply
+PROD0191,Product 191,Sports,362.2,PrimeGoods
+PROD0192,Product 192,Home,32.46,BlueRiver Wholesale
+PROD0193,Product 193,Electronics,109.61,Summit Suppliers
+PROD0194,Product 194,Books,284.62,NorthStar Supply
+PROD0195,Product 195,Clothing,168.09,Metro Distribution
+PROD0196,Product 196,Sports,413.39,NorthStar Supply
+PROD0197,Product 197,Electronics,394.64,BlueRiver Wholesale
+PROD0198,Product 198,Clothing,446.87,Metro Distribution
+PROD0199,Product 199,Electronics,285.84,Summit Suppliers
+PROD0200,Product 200,Sports,182.52,PrimeGoods
+PROD0201,Product 201,Beauty,306.97,NorthStar Supply
+PROD0202,Product 202,Beauty,53.68,Metro Distribution
+PROD0203,Product 203,Books,14.7,NorthStar Supply
+PROD0204,Product 204,Clothing,18.38,Summit Suppliers
+PROD0205,Product 205,Beauty,209.7,NorthStar Supply
+PROD0206,Product 206,Sports,121.76,Metro Distribution
+PROD0207,Product 207,Clothing,87.1,BlueRiver Wholesale
+PROD0208,Product 208,Electronics,311.51,Metro Distribution
+PROD0209,Product 209,Home,497.6,NorthStar Supply
+PROD0210,Product 210,Electronics,97.1,Summit Suppliers
+PROD0211,Product 211,Sports,277.75,PrimeGoods
+PROD0212,Product 212,Books,68.67,PrimeGoods
+PROD0213,Product 213,Clothing,467.78,Summit Suppliers
+PROD0214,Product 214,Electronics,152.96,NorthStar Supply
+PROD0215,Product 215,Clothing,440.39,Summit Suppliers
+PROD0216,Product 216,Beauty,148.71,NorthStar Supply
+PROD0217,Product 217,Home,404.97,Metro Distribution
+PROD0218,Product 218,Sports,112.6,BlueRiver Wholesale
+PROD0219,Product 219,Electronics,153.47,NorthStar Supply
+PROD0220,Product 220,Home,104.31,PrimeGoods
+PROD0221,Product 221,Sports,139.49,PrimeGoods
+PROD0222,Product 222,Sports,419.08,BlueRiver Wholesale
+PROD0223,Product 223,Books,323.13,NorthStar Supply
+PROD0224,Product 224,Beauty,208.88,BlueRiver Wholesale
+PROD0225,Product 225,Books,486.05,Metro Distribution
+PROD0226,Product 226,Books,237.78,BlueRiver Wholesale
+PROD0227,Product 227,Clothing,485.18,Metro Distribution
+PROD0228,Product 228,Clothing,106.33,PrimeGoods
+PROD0229,Product 229,Home,453.27,Metro Distribution
+PROD0230,Product 230,Beauty,16.77,NorthStar Supply
+PROD0231,Product 231,Sports,277.2,NorthStar Supply
+PROD0232,Product 232,Beauty,217.3,NorthStar Supply
+PROD0233,Product 233,Beauty,267.29,NorthStar Supply
+PROD0234,Product 234,Home,281.19,Summit Suppliers
+PROD0235,Product 235,Clothing,200.63,Metro Distribution
+PROD0236,Product 236,Beauty,499.12,NorthStar Supply
+PROD0237,Product 237,Beauty,488.49,BlueRiver Wholesale
+PROD0238,Product 238,Beauty,481.26,BlueRiver Wholesale
+PROD0239,Product 239,Electronics,489.75,Summit Suppliers
+PROD0240,Product 240,Beauty,398.58,Metro Distribution
+PROD0241,Product 241,Beauty,494.41,Metro Distribution
+PROD0242,Product 242,Sports,447.26,Metro Distribution
+PROD0243,Product 243,Books,213.81,Summit Suppliers
+PROD0244,Product 244,Electronics,394.54,Metro Distribution
+PROD0245,Product 245,Beauty,456.91,Metro Distribution
+PROD0246,Product 246,Books,359.18,NorthStar Supply
+PROD0247,Product 247,Beauty,217.16,Metro Distribution
+PROD0248,Product 248,Home,42.24,NorthStar Supply
+PROD0249,Product 249,Home,406.75,NorthStar Supply
+PROD0250,Product 250,Books,476.84,Metro Distribution
+PROD0251,Product 251,Electronics,187.61,BlueRiver Wholesale
+PROD0252,Product 252,Sports,84.43,PrimeGoods
+PROD0253,Product 253,Electronics,169.99,BlueRiver Wholesale
+PROD0254,Product 254,Electronics,295.48,Metro Distribution
+PROD0255,Product 255,Home,165.3,Metro Distribution
+PROD0256,Product 256,Home,309.2,BlueRiver Wholesale
+PROD0257,Product 257,Sports,483.76,Metro Distribution
+PROD0258,Product 258,Beauty,338.66,NorthStar Supply
+PROD0259,Product 259,Sports,187.7,Summit Suppliers
+PROD0260,Product 260,Beauty,468.52,Metro Distribution
+PROD0261,Product 261,Books,287.16,Metro Distribution
+PROD0262,Product 262,Books,72.9,BlueRiver Wholesale
+PROD0263,Product 263,Clothing,254.5,NorthStar Supply
+PROD0264,Product 264,Home,330.28,BlueRiver Wholesale
+PROD0265,Product 265,Clothing,420.74,BlueRiver Wholesale
+PROD0266,Product 266,Clothing,468.87,Metro Distribution
+PROD0267,Product 267,Home,165.53,NorthStar Supply
+PROD0268,Product 268,Clothing,86.2,Metro Distribution
+PROD0269,Product 269,Electronics,46.18,Metro Distribution
+PROD0270,Product 270,Beauty,371.79,Metro Distribution
+PROD0271,Product 271,Sports,399.63,Metro Distribution
+PROD0272,Product 272,Home,210.59,Summit Suppliers
+PROD0273,Product 273,Electronics,204.0,PrimeGoods
+PROD0274,Product 274,Books,477.58,NorthStar Supply
+PROD0275,Product 275,Sports,459.17,Summit Suppliers
+PROD0276,Product 276,Sports,124.3,PrimeGoods
+PROD0277,Product 277,Sports,392.6,PrimeGoods
+PROD0278,Product 278,Clothing,315.12,PrimeGoods
+PROD0279,Product 279,Clothing,85.57,Summit Suppliers
+PROD0280,Product 280,Clothing,184.82,NorthStar Supply
+PROD0281,Product 281,Clothing,96.96,BlueRiver Wholesale
+PROD0282,Product 282,Electronics,154.63,PrimeGoods
+PROD0283,Product 283,Clothing,311.5,BlueRiver Wholesale
+PROD0284,Product 284,Home,193.88,BlueRiver Wholesale
+PROD0285,Product 285,Sports,203.09,Metro Distribution
+PROD0286,Product 286,Electronics,274.43,BlueRiver Wholesale
+PROD0287,Product 287,Books,52.74,Metro Distribution
+PROD0288,Product 288,Clothing,372.01,NorthStar Supply
+PROD0289,Product 289,Books,206.84,NorthStar Supply
+PROD0290,Product 290,Sports,245.39,Metro Distribution
+PROD0291,Product 291,Electronics,487.41,NorthStar Supply
+PROD0292,Product 292,Sports,178.74,PrimeGoods
+PROD0293,Product 293,Books,327.63,NorthStar Supply
+PROD0294,Product 294,Electronics,202.33,Metro Distribution
+PROD0295,Product 295,Beauty,448.2,PrimeGoods
+PROD0296,Product 296,Electronics,424.91,BlueRiver Wholesale
+PROD0297,Product 297,Clothing,128.4,BlueRiver Wholesale
+PROD0298,Product 298,Books,348.96,BlueRiver Wholesale
+PROD0299,Product 299,Sports,41.93,Metro Distribution
+PROD0300,Product 300,Sports,481.96,BlueRiver Wholesale
+PROD0301,Product 301,Sports,181.01,NorthStar Supply
+PROD0302,Product 302,Home,417.6,BlueRiver Wholesale
+PROD0303,Product 303,Home,166.03,Summit Suppliers
+PROD0304,Product 304,Clothing,320.06,Summit Suppliers
+PROD0305,Product 305,Beauty,491.96,BlueRiver Wholesale
+PROD0306,Product 306,Home,439.61,BlueRiver Wholesale
+PROD0307,Product 307,Electronics,88.58,Summit Suppliers
+PROD0308,Product 308,Books,278.27,BlueRiver Wholesale
+PROD0309,Product 309,Clothing,180.78,PrimeGoods
+PROD0310,Product 310,Beauty,222.83,Summit Suppliers
+PROD0311,Product 311,Electronics,174.24,Metro Distribution
+PROD0312,Product 312,Sports,174.62,Summit Suppliers
+PROD0313,Product 313,Home,275.85,NorthStar Supply
+PROD0314,Product 314,Electronics,104.06,PrimeGoods
+PROD0315,Product 315,Beauty,273.32,Metro Distribution
+PROD0316,Product 316,Clothing,146.69,BlueRiver Wholesale
+PROD0317,Product 317,Electronics,151.6,NorthStar Supply
+PROD0318,Product 318,Clothing,371.99,NorthStar Supply
+PROD0319,Product 319,Sports,24.5,PrimeGoods
+PROD0320,Product 320,Beauty,196.66,Metro Distribution
+PROD0321,Product 321,Beauty,209.69,NorthStar Supply
+PROD0322,Product 322,Home,247.7,Metro Distribution
+PROD0323,Product 323,Books,337.82,Metro Distribution
+PROD0324,Product 324,Beauty,191.15,NorthStar Supply
+PROD0325,Product 325,Electronics,114.44,Metro Distribution
+PROD0326,Product 326,Electronics,443.59,PrimeGoods
+PROD0327,Product 327,Electronics,490.71,NorthStar Supply
+PROD0328,Product 328,Sports,19.81,PrimeGoods
+PROD0329,Product 329,Beauty,277.77,PrimeGoods
+PROD0330,Product 330,Beauty,177.43,Metro Distribution
+PROD0331,Product 331,Electronics,145.72,Metro Distribution
+PROD0332,Product 332,Home,174.5,NorthStar Supply
+PROD0333,Product 333,Home,323.05,BlueRiver Wholesale
+PROD0334,Product 334,Beauty,103.45,NorthStar Supply
+PROD0335,Product 335,Beauty,457.3,PrimeGoods
+PROD0336,Product 336,Clothing,238.4,Metro Distribution
+PROD0337,Product 337,Beauty,169.53,PrimeGoods
+PROD0338,Product 338,Electronics,385.11,Summit Suppliers
+PROD0339,Product 339,Books,18.01,Summit Suppliers
+PROD0340,Product 340,Sports,221.61,PrimeGoods
+PROD0341,Product 341,Beauty,184.1,BlueRiver Wholesale
+PROD0342,Product 342,Beauty,175.72,BlueRiver Wholesale
+PROD0343,Product 343,Electronics,175.16,NorthStar Supply
+PROD0344,Product 344,Clothing,25.32,NorthStar Supply
+PROD0345,Product 345,Books,84.54,NorthStar Supply
+PROD0346,Product 346,Beauty,79.52,Metro Distribution
+PROD0347,Product 347,Home,494.42,BlueRiver Wholesale
+PROD0348,Product 348,Home,20.86,PrimeGoods
+PROD0349,Product 349,Home,91.87,Summit Suppliers
+PROD0350,Product 350,Sports,487.35,BlueRiver Wholesale
+PROD0351,Product 351,Sports,317.85,BlueRiver Wholesale
+PROD0352,Product 352,Books,230.83,BlueRiver Wholesale
+PROD0353,Product 353,Beauty,48.59,NorthStar Supply
+PROD0354,Product 354,Beauty,338.13,Metro Distribution
+PROD0355,Product 355,Beauty,77.52,PrimeGoods
+PROD0356,Product 356,Sports,338.88,NorthStar Supply
+PROD0357,Product 357,Books,489.8,Metro Distribution
+PROD0358,Product 358,Beauty,270.67,BlueRiver Wholesale
+PROD0359,Product 359,Electronics,114.9,Metro Distribution
+PROD0360,Product 360,Clothing,316.39,NorthStar Supply
+PROD0361,Product 361,Home,261.34,BlueRiver Wholesale
+PROD0362,Product 362,Home,271.24,NorthStar Supply
+PROD0363,Product 363,Electronics,244.27,PrimeGoods
+PROD0364,Product 364,Beauty,340.13,BlueRiver Wholesale
+PROD0365,Product 365,Books,290.25,Metro Distribution
+PROD0366,Product 366,Books,493.63,NorthStar Supply
+PROD0367,Product 367,Sports,414.67,Summit Suppliers
+PROD0368,Product 368,Beauty,139.7,Metro Distribution
+PROD0369,Product 369,Books,365.62,Metro Distribution
+PROD0370,Product 370,Beauty,115.01,BlueRiver Wholesale
+PROD0371,Product 371,Home,393.35,Metro Distribution
+PROD0372,Product 372,Home,82.3,NorthStar Supply
+PROD0373,Product 373,Sports,242.04,Summit Suppliers
+PROD0374,Product 374,Home,397.4,PrimeGoods
+PROD0375,Product 375,Beauty,147.26,Summit Suppliers
+PROD0376,Product 376,Electronics,420.19,NorthStar Supply
+PROD0377,Product 377,Sports,325.63,BlueRiver Wholesale
+PROD0378,Product 378,Electronics,204.79,NorthStar Supply
+PROD0379,Product 379,Beauty,217.47,Metro Distribution
+PROD0380,Product 380,Sports,463.74,BlueRiver Wholesale
+PROD0381,Product 381,Electronics,116.72,PrimeGoods
+PROD0382,Product 382,Sports,349.75,PrimeGoods
+PROD0383,Product 383,Beauty,356.57,NorthStar Supply
+PROD0384,Product 384,Books,462.0,Metro Distribution
+PROD0385,Product 385,Sports,359.45,PrimeGoods
+PROD0386,Product 386,Books,296.39,Summit Suppliers
+PROD0387,Product 387,Beauty,452.24,BlueRiver Wholesale
+PROD0388,Product 388,Sports,416.27,Summit Suppliers
+PROD0389,Product 389,Sports,361.22,PrimeGoods
+PROD0390,Product 390,Books,25.96,PrimeGoods
+PROD0391,Product 391,Home,193.03,NorthStar Supply
+PROD0392,Product 392,Books,319.63,NorthStar Supply
+PROD0393,Product 393,Books,265.9,BlueRiver Wholesale
+PROD0394,Product 394,Books,166.47,NorthStar Supply
+PROD0395,Product 395,Beauty,80.77,Metro Distribution
+PROD0396,Product 396,Clothing,280.97,BlueRiver Wholesale
+PROD0397,Product 397,Books,150.1,Metro Distribution
+PROD0398,Product 398,Sports,124.17,NorthStar Supply
+PROD0399,Product 399,Electronics,205.49,BlueRiver Wholesale
+PROD0400,Product 400,Home,394.89,PrimeGoods
+PROD0401,Product 401,Books,249.05,Summit Suppliers
+PROD0402,Product 402,Books,116.08,PrimeGoods
+PROD0403,Product 403,Home,67.28,Metro Distribution
+PROD0404,Product 404,Books,254.5,PrimeGoods
+PROD0405,Product 405,Sports,399.24,PrimeGoods
+PROD0406,Product 406,Clothing,329.88,Summit Suppliers
+PROD0407,Product 407,Books,123.75,Summit Suppliers
+PROD0408,Product 408,Home,223.99,PrimeGoods
+PROD0409,Product 409,Books,429.06,Summit Suppliers
+PROD0410,Product 410,Beauty,97.05,PrimeGoods
+PROD0411,Product 411,Sports,270.72,BlueRiver Wholesale
+PROD0412,Product 412,Sports,184.55,PrimeGoods
+PROD0413,Product 413,Clothing,70.85,NorthStar Supply
+PROD0414,Product 414,Beauty,34.45,Summit Suppliers
+PROD0415,Product 415,Beauty,282.38,Summit Suppliers
+PROD0416,Product 416,Clothing,20.17,Metro Distribution
+PROD0417,Product 417,Electronics,60.69,Metro Distribution
+PROD0418,Product 418,Books,180.31,NorthStar Supply
+PROD0419,Product 419,Beauty,31.32,Summit Suppliers
+PROD0420,Product 420,Electronics,206.22,Summit Suppliers
+PROD0421,Product 421,Electronics,73.88,Metro Distribution
+PROD0422,Product 422,Sports,181.44,Metro Distribution
+PROD0423,Product 423,Books,397.67,PrimeGoods
+PROD0424,Product 424,Sports,316.92,Summit Suppliers
+PROD0425,Product 425,Home,228.25,Summit Suppliers
+PROD0426,Product 426,Sports,55.0,PrimeGoods
+PROD0427,Product 427,Beauty,313.38,Summit Suppliers
+PROD0428,Product 428,Beauty,90.22,NorthStar Supply
+PROD0429,Product 429,Books,47.53,Metro Distribution
+PROD0430,Product 430,Electronics,335.36,Metro Distribution
+PROD0431,Product 431,Beauty,456.91,Metro Distribution
+PROD0432,Product 432,Sports,235.69,BlueRiver Wholesale
+PROD0433,Product 433,Sports,30.09,NorthStar Supply
+PROD0434,Product 434,Books,441.35,NorthStar Supply
+PROD0435,Product 435,Sports,42.82,PrimeGoods
+PROD0436,Product 436,Clothing,435.08,BlueRiver Wholesale
+PROD0437,Product 437,Books,201.99,Summit Suppliers
+PROD0438,Product 438,Books,189.04,NorthStar Supply
+PROD0439,Product 439,Beauty,275.97,BlueRiver Wholesale
+PROD0440,Product 440,Books,478.97,BlueRiver Wholesale
+PROD0441,Product 441,Home,450.38,NorthStar Supply
+PROD0442,Product 442,Beauty,240.46,PrimeGoods
+PROD0443,Product 443,Beauty,350.95,BlueRiver Wholesale
+PROD0444,Product 444,Clothing,294.41,Metro Distribution
+PROD0445,Product 445,Beauty,349.8,BlueRiver Wholesale
+PROD0446,Product 446,Electronics,416.37,Summit Suppliers
+PROD0447,Product 447,Sports,26.9,NorthStar Supply
+PROD0448,Product 448,Sports,169.62,Summit Suppliers
+PROD0449,Product 449,Books,480.07,PrimeGoods
+PROD0450,Product 450,Clothing,475.17,Metro Distribution
+PROD0451,Product 451,Sports,15.5,NorthStar Supply
+PROD0452,Product 452,Electronics,108.71,BlueRiver Wholesale
+PROD0453,Product 453,Clothing,496.95,Metro Distribution
+PROD0454,Product 454,Home,251.48,BlueRiver Wholesale
+PROD0455,Product 455,Sports,290.7,PrimeGoods
+PROD0456,Product 456,Beauty,91.55,NorthStar Supply
+PROD0457,Product 457,Electronics,448.22,PrimeGoods
+PROD0458,Product 458,Electronics,123.32,PrimeGoods
+PROD0459,Product 459,Sports,102.93,PrimeGoods
+PROD0460,Product 460,Books,121.78,PrimeGoods
+PROD0461,Product 461,Home,460.61,BlueRiver Wholesale
+PROD0462,Product 462,Beauty,354.39,Summit Suppliers
+PROD0463,Product 463,Home,386.61,BlueRiver Wholesale
+PROD0464,Product 464,Home,194.75,Metro Distribution
+PROD0465,Product 465,Sports,455.5,PrimeGoods
+PROD0466,Product 466,Beauty,396.81,Metro Distribution
+PROD0467,Product 467,Sports,377.79,BlueRiver Wholesale
+PROD0468,Product 468,Sports,485.76,PrimeGoods
+PROD0469,Product 469,Books,189.44,BlueRiver Wholesale
+PROD0470,Product 470,Electronics,309.38,PrimeGoods
+PROD0471,Product 471,Books,455.87,BlueRiver Wholesale
+PROD0472,Product 472,Books,397.54,NorthStar Supply
+PROD0473,Product 473,Sports,286.06,Summit Suppliers
+PROD0474,Product 474,Books,47.34,Summit Suppliers
+PROD0475,Product 475,Books,329.83,PrimeGoods
+PROD0476,Product 476,Clothing,268.01,NorthStar Supply
+PROD0477,Product 477,Beauty,100.25,Metro Distribution
+PROD0478,Product 478,Electronics,442.3,NorthStar Supply
+PROD0479,Product 479,Beauty,178.19,PrimeGoods
+PROD0480,Product 480,Electronics,199.87,NorthStar Supply
+PROD0481,Product 481,Clothing,339.48,Metro Distribution
+PROD0482,Product 482,Sports,249.51,PrimeGoods
+PROD0483,Product 483,Electronics,53.75,Summit Suppliers
+PROD0484,Product 484,Electronics,199.85,NorthStar Supply
+PROD0485,Product 485,Electronics,56.29,Summit Suppliers
+PROD0486,Product 486,Clothing,103.47,Summit Suppliers
+PROD0487,Product 487,Beauty,13.52,BlueRiver Wholesale
+PROD0488,Product 488,Clothing,98.84,Metro Distribution
+PROD0489,Product 489,Electronics,171.92,NorthStar Supply
+PROD0490,Product 490,Books,273.73,Summit Suppliers
+PROD0491,Product 491,Electronics,460.45,Summit Suppliers
+PROD0492,Product 492,Books,274.76,Metro Distribution
+PROD0493,Product 493,Sports,355.75,Summit Suppliers
+PROD0494,Product 494,Clothing,185.26,Summit Suppliers
+PROD0495,Product 495,Books,378.3,Summit Suppliers
+PROD0496,Product 496,Clothing,314.03,Summit Suppliers
+PROD0497,Product 497,Home,235.3,BlueRiver Wholesale
+PROD0498,Product 498,Beauty,104.95,BlueRiver Wholesale
+PROD0499,Product 499,Home,158.74,PrimeGoods
+PROD0500,Product 500,Books,314.26,NorthStar Supply
